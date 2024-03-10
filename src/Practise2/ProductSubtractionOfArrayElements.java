@@ -1,4 +1,4 @@
-// Subtract the product and sum of digits of an integer
+package Practise2;// Subtract the product and sum of digits of an integer
 
 public class ProductSubtractionOfArrayElements {
     public static void main(String[] args) {

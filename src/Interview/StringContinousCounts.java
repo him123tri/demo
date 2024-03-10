@@ -1,3 +1,5 @@
+package Interview;
+
 public class StringContinousCounts {
 
     public static void main(String[] args) {

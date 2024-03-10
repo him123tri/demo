@@ -1,3 +1,5 @@
+package Interview;
+
 public class NumbersWithoutLoop {
 
     public static void printNumbers(int number){
