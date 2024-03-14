@@ -1,3 +1,5 @@
+package Practise2;
+
 import java.util.Arrays;
 
 public class MinSumOf4DigitNumber {

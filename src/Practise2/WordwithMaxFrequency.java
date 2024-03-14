@@ -1,3 +1,5 @@
+package Practise2;
+
 import javax.swing.text.AttributeSet;
 import java.util.HashMap;
 import java.util.HashSet;

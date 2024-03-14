@@ -1,3 +1,5 @@
+package Practise2;
+
 public class BubbleSort {
 
     /*In Bubble sort , we sort the max value first and then the second max value and so on.

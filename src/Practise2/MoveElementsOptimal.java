@@ -1,7 +1,9 @@
+package Practise2;
+
 public class MoveElementsOptimal {
 
     public static void main(String[] args) {
-        int a[] = {-12, 11,2,0,0,6,7,-13,-5,0,0,0,-6, -7, 5, -3,0,0,-6};
+        int a[] = {9,-8,-7,-6,2,3,-1,1,6};
         int n = a.length;
         int j = -1;
         for (int i = 0; i < a.length; i++) {

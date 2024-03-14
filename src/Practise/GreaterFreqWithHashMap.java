@@ -9,7 +9,7 @@ import java.util.Map;
 public class GreaterFreqWithHashMap {
     public static void main(String[] args) {
 
-        String s = "coololll";
+        String s = "cool";
         char [] c = s.toCharArray();
 
         HashMap <Character, Integer> map = new HashMap<>();

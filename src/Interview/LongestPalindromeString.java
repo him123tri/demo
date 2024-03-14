@@ -1,3 +1,5 @@
+package Interview;
+
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -5,7 +7,7 @@ public class LongestPalindromeString {
 
     public static void main(String[] args) {
 
-        String str = "aba";
+        String str = "bbabacc";
         char [] c = str.toCharArray();
         ArrayList <Integer> l = new ArrayList<>();
         int i =0;
@@ -29,12 +31,12 @@ public class LongestPalindromeString {
                 i++;
                 j--;
             }
-            Collections.sort(l);
+            //Collections.sort(l);
 
         }
 
-        min = l.get(0);
-        max = l.get(l.size()-1);
+//        min = l.get(0);
+//        max = l.get(l.size()-1);
         System.out.println(str.substring(min,max+1));
 
 

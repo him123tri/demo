@@ -1,4 +1,4 @@
-package Test;
+package Interview.Test;
 
 import java.util.Stack;
 

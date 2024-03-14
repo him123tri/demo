@@ -1,10 +1,12 @@
+package Practise2;
+
 public class SumIntInString {
 
     public static void main(String[] args) {
 
         String s = "123mehul10jain3356";
         int sum = 0;
-        String[] str1 = s.split("[A-Za-z]");
+        String[] str1 = s.split("[a-z]");
 //        String[] str6 = s.split("\\d");
 //        String newString = s.replaceAll("\\d","");
 //

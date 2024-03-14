@@ -1,3 +1,5 @@
+package Interview;
+
 public class LongestSubString {
 
     public static void main(String[] args) {
@@ -16,7 +18,5 @@ public class LongestSubString {
             }
         }
         System.out.print(max);
-
-
     }
 }

@@ -1,3 +1,5 @@
+package Interview;
+
 public class Arrangement {
 
     public static void main(String[] args) {

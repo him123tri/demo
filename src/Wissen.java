@@ -8,7 +8,7 @@ public class Wissen {
 
     public static void main(String[] args) {
         ArrayList<String> array = new ArrayList<>();
-        array.add(String.valueOf(1));
+//        array.add(String.valueOf(1));
 
         String first = "ravi";//abcd
         String second = "raviteja";//cdef
@@ -23,7 +23,6 @@ public class Wissen {
         for (Character cset:c1){
             s1.add(cset);
         }
-
 
         for (Character cset2:c2){
             s2.add(cset2);
